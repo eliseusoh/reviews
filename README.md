@@ -1,3 +1,5 @@
+Command - npm run dev to run on pages
+
 ## Figma URL
 
 [Reviews](https://www.figma.com/file/e8L2QiR4GVTa5cGuRpXtk3/Reviews?node-id=0%3A1&t=gcCYcePiKxnkJ9kH-1)
@@ -60,4 +62,4 @@ Overall, the flow of the application should look something like this:
 - Render the first person's review in the list using their image, name, job, and text properties.
 - Set up buttons to display the next and previous reviews in the list. Keep track of the current index in the reviews array and update it when the user clicks the next or previous button.
 - Set up a button to display a random person's review. This button should select a random index in the reviews array and use it to display the corresponding person's review.
-# reviews
+
